@@ -1,4 +1,4 @@
-# Merhaba, ben [Doğukan] 👋
+# Merhaba, ben Doğukan 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rexanewashere&color=blue)](https://github.com/rexanewashere)
 
@@ -15,8 +15,8 @@
 
 ## Hakkımda
 
-Merhaba, ben [Doğukan]!
-Tutkulu bir yazılım geliştiricisiyim. Orta seviye geliştirici olarak  bir deneyime sahibim. Temiz ve okunabilir kod yazmayı seviyorum. Aynı zamanda teknoloji hakkında içerikler üretmekten keyif alıyorum.
+Merhaba, ben Doğukan!
+Tutkulu bir yazılım geliştiricisiyim. . Temiz ve okunabilir kod yazmayı seviyorum. Aynı zamanda teknoloji hakkında içerikler üretmekten keyif alıyorum.
 Her zaman yeni şeyler öğrenmeye ve açık kaynak projelere katkı sağlamaya hevesliyim.
 
 Tüm projelerimi yukarıda bağlantısı bulunan GitHub profilimde bulabilirsiniz.
